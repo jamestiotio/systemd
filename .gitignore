@@ -34,7 +34,7 @@ __pycache__/
 /mkosi.installdir/
 /mkosi.key
 /mkosi.crt
-mkosi.local.conf
+# mkosi.local.conf
 /tags
 .dir-locals-2.el
 .vscode/
